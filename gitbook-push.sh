@@ -25,4 +25,4 @@ git commit -m "$commit_message"
 echo -e "\npushing to gh-pages..."
 git push origin gh-pages
 
-echo -e "\nFINISH!!"
+echo -e "\nDONE!!"
